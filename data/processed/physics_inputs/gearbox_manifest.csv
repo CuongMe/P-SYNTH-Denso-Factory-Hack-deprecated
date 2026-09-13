@@ -1,0 +1,21 @@
+dataset,source_file,health_state,rotational_condition_hz,load_percent,rows,channels,channel_names,units,size_mb
+gearbox,BrokenTooth\b30hz0.csv,broken_tooth,30.0,0,88320,4,a1|a2|a3|a4,not provided in raw file,3.08
+gearbox,BrokenTooth\b30hz10.csv,broken_tooth,30.0,10,111616,4,a1|a2|a3|a4,not provided in raw file,3.89
+gearbox,BrokenTooth\b30hz20.csv,broken_tooth,30.0,20,114432,4,a1|a2|a3|a4,not provided in raw file,3.97
+gearbox,BrokenTooth\b30hz30.csv,broken_tooth,30.0,30,89856,4,a1|a2|a3|a4,not provided in raw file,3.11
+gearbox,BrokenTooth\b30hz40.csv,broken_tooth,30.0,40,94464,4,a1|a2|a3|a4,not provided in raw file,3.26
+gearbox,BrokenTooth\b30hz50.csv,broken_tooth,30.0,50,94208,4,a1|a2|a3|a4,not provided in raw file,3.25
+gearbox,BrokenTooth\b30hz60.csv,broken_tooth,30.0,60,95488,4,a1|a2|a3|a4,not provided in raw file,3.28
+gearbox,BrokenTooth\b30hz70.csv,broken_tooth,30.0,70,100864,4,a1|a2|a3|a4,not provided in raw file,3.47
+gearbox,BrokenTooth\b30hz80.csv,broken_tooth,30.0,80,110335,4,a1|a2|a3|a4,not provided in raw file,3.79
+gearbox,BrokenTooth\b30hz90.csv,broken_tooth,30.0,90,105728,4,a1|a2|a3|a4,not provided in raw file,3.63
+gearbox,Healthy\h30hz0.csv,healthy,30.0,0,88832,4,a1|a2|a3|a4,not provided in raw file,3.09
+gearbox,Healthy\h30hz10.csv,healthy,30.0,10,92928,4,a1|a2|a3|a4,not provided in raw file,3.23
+gearbox,Healthy\h30hz20.csv,healthy,30.0,20,108544,4,a1|a2|a3|a4,not provided in raw file,3.77
+gearbox,Healthy\h30hz30.csv,healthy,30.0,30,106240,4,a1|a2|a3|a4,not provided in raw file,3.67
+gearbox,Healthy\h30hz40.csv,healthy,30.0,40,100608,4,a1|a2|a3|a4,not provided in raw file,3.47
+gearbox,Healthy\h30hz50.csv,healthy,30.0,50,110848,4,a1|a2|a3|a4,not provided in raw file,3.81
+gearbox,Healthy\h30hz60.csv,healthy,30.0,60,99840,4,a1|a2|a3|a4,not provided in raw file,3.43
+gearbox,Healthy\h30hz70.csv,healthy,30.0,70,101376,4,a1|a2|a3|a4,not provided in raw file,3.48
+gearbox,Healthy\h30hz80.csv,healthy,30.0,80,99840,4,a1|a2|a3|a4,not provided in raw file,3.42
+gearbox,Healthy\h30hz90.csv,healthy,30.0,90,106752,4,a1|a2|a3|a4,not provided in raw file,3.66

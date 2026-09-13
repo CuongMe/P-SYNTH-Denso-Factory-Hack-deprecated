@@ -1,0 +1,2 @@
+pip install scipy nptdms
+pip install -q kagglehub
